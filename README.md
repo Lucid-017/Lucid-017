@@ -1,16 +1,20 @@
-### Hi there 👋
+## Austin Onwuliri 👋
+#### Hi there!, i'm Austin, and i'm a frontend developer, i really enjoy design in general and using frameworks React to creative responsive and interactive websites
+<img align ="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Lucid-017&show_icons=true&theme=radical"/>
 
-<!--
-**Lucid-017/Lucid-017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align ="right" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucid-017&layout=compact"/>
 
-Here are some ideas to get you started:
+## Languages
+
+
+<img alt="NodeJS" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="CSS3" src="http://shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=#23F7DF1"/>
+<img alt="CSS3" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/Css3-%23157286.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<img alt="CSS3" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
+<img alt="CSS3" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
+
