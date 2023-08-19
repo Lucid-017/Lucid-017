@@ -1,8 +1,8 @@
 ## Austin Onwuliri 👋
 #### Hi there!, i'm Austin, and i'm a frontend developer, i really enjoy design in general and using frameworks React to creative responsive and interactive websites
-<img align ="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Lucid-017&show_icons=true&theme=radical"/>
+<img align ="left" width="47%" height="20%" src= "https://github-readme-stats.vercel.app/api?username=Lucid-017&show_icons=true&theme=radical"/>
 
-<img align ="right" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucid-017&layout=compact"/>
+<img align ="right" width="47%" height="170px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucid-017&layout=compact"/>
 
 ## Languages
 
