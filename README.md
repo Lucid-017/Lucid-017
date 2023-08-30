@@ -5,7 +5,6 @@
 <img align ="right" width="47%" height="170px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucid-017&layout=compact"/>
 
 ##
-## Languages
 
 
 <img alt="NodeJS" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
